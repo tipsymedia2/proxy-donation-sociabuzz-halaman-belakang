@@ -1,0 +1,25 @@
+{
+  "name": "sociabuzz-donation-queue",
+  "version": "1.0.0",
+  "description": "SociaBuzz donation queue system for Roblox integration",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node app.js"
+  },
+  "keywords": [
+    "sociabuzz",
+    "donation",
+    "webhook",
+    "roblox",
+    "queue"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=18.x"
+  }
+}
